@@ -1,5 +1,6 @@
-# Grocery Store Footfall Counter Application Readme
+# Grocery Store Footfall Counter Application
 The Grocery Store Footfall Counter Application is a simple JavaScript-based application that allows you to count and save the number of footfalls (people entering the store) in a grocery store. This application provides a user-friendly interface for tracking footfall data and helps store owners or managers to keep a record of store activity.
+Tech Used: HTML5, CSS and JAVASCRIPT
 
 Web site link: https://soft-pothos-c295e4.netlify.app/
 
